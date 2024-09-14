@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Snack", "Snack\Snack.vcxproj", "{DE055D4F-69F4-4478-B756-D08DBAF5C518}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Debug|x64.ActiveCfg = Debug|x64
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Debug|x64.Build.0 = Debug|x64
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Debug|x86.ActiveCfg = Debug|Win32
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Debug|x86.Build.0 = Debug|Win32
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Release|x64.ActiveCfg = Release|x64
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Release|x64.Build.0 = Release|x64
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Release|x86.ActiveCfg = Release|Win32
+		{DE055D4F-69F4-4478-B756-D08DBAF5C518}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C83E1CD-84E0-43A9-943C-628D33B7902C}
+	EndGlobalSection
+EndGlobal

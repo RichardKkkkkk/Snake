@@ -1,0 +1,5 @@
+﻿D:\C++\IDE\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Snack.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\c++学习\Snack\Snack\main.cpp(119,20): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\c++学习\Snack\Snack\main.cpp(301,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snack.vcxproj -> D:\c++学习\Snack\x64\Debug\Snake.exe
